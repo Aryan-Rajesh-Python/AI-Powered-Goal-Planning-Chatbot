@@ -71,6 +71,6 @@ python chatbot.py
 - ✅ **Advanced AI responses** using fine-tuned models.
 
 ## 📞 Contact
-For any queries, reach out to **[Your Email or GitHub Profile]**.
+For any queries, reach out to **aryanreddy463@gmail.com**.
 
 🚀 **Built with AI to help users achieve their goals efficiently!**
