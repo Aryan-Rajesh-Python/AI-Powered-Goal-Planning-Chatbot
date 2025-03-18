@@ -1,0 +1,4 @@
+google-generativeai
+langchain-community
+psycopg2-binary
+python-dotenv
